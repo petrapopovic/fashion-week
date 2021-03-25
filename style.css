@@ -1,0 +1,19 @@
+.tekst{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    background-color: rgb(187, 110, 110);
+}
+h3{
+    background-color: rgb(187, 110, 110);
+}
+body{
+    background-color:rgb(201, 164, 164);
+}
+.tjedan-mode{
+    font-style:bold;
+}
